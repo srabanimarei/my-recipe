@@ -1,0 +1,28 @@
+body{
+    height:100%;
+    background-image: url("cooking.jpg");
+    background-size:cover;
+    font-size:xx-large;
+    font-style:initial;
+}
+img{
+    width: 400px;
+    height: 300px;
+}
+h1{
+   background:palevioletred;
+    text-align:center;
+    font-size: 300%;
+    font-style:initial;
+    color: crimson;
+
+
+}
+h2{
+    text-align-last: center;
+    background:chocolate;
+    font-size: 200%;
+    color:darkmagenta;
+    text-decoration: underline;
+}
+    
